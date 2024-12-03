@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/campanha/static/css/main.6d4e99c1.css",
+    "main.js": "/campanha/static/js/main.3303d927.js",
+    "static/js/453.62410470.chunk.js": "/campanha/static/js/453.62410470.chunk.js",
+    "index.html": "/campanha/index.html",
+    "main.6d4e99c1.css.map": "/campanha/static/css/main.6d4e99c1.css.map",
+    "main.3303d927.js.map": "/campanha/static/js/main.3303d927.js.map",
+    "453.62410470.chunk.js.map": "/campanha/static/js/453.62410470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4e99c1.css",
+    "static/js/main.3303d927.js"
+  ]
+}
